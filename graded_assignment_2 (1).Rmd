@@ -2,9 +2,7 @@
 title: "Graded assignment 2"
 author: "Mark Klik en Misja Mikkers"
 output:
-  word_document: default
-  pdf_document: default
-  html_document:
+  output: rmarkdown::github_document
     self_contained: no
 ---
 
